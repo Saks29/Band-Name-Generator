@@ -1,0 +1,5 @@
+print("Welcome to the Band Name Generator")
+city = input("What's name of the city you grew up in?\n")
+food_name = input("What's your favorite food or drink?\n")
+kicker = input("Name a random object, substance, or animal\n")
+print("Your band name could be " + city + " " + food_name + " " + kicker)
